@@ -1,0 +1,8 @@
+{
+  "name": "CONTROL-VALUE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "50672b13"
+}
